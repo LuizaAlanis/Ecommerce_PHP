@@ -1,0 +1,26 @@
+.masthead-search{
+    background-color:#fff;
+    border:3px solid #202C39;
+    border-radius:30px;
+    width:290px;
+    height:50px;
+}
+.masthead-search > input{
+    background-color:#fff;
+    width:60%;
+    margin-left:10%;
+    border:none;
+    height:35px;
+    font-size:0.9em;
+    border-radius:30px;
+    outline:none;
+}
+.masthead-search > button{
+    background-color:#fff;
+    border-radius:30px;
+    color:#202C39;
+    width:20%;
+    border:none;
+    height:50px;
+    outline:none;
+}
